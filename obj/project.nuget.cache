@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWd6zP59Aqy0Cw1ZsQ1t+AoRGM+lmaqLkHLr4EdptAJikBI52jT+pfo/rBo4SLS7jN/CISq4fJ3RA12Kq9Jvcw==",
+  "success": true,
+  "projectFilePath": "D:\\Centennial\\1. Summer 2022\\Programming 2\\Week 3\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naisarg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
